@@ -1,0 +1,132 @@
+.add-stock {
+    background-color: #a892ee;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.add-stock button {
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 0px;
+    /* margin: 10px; */
+    border: solid;
+    /* border-width: 10px; */
+    border-radius: 50px;
+}
+
+label {
+    /* padding: 15px; */
+    font-weight: bold;
+}
+
+select {
+    padding: 5px;
+    border-radius: 15px;
+    width: 150px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.new-stock {
+    background-color: #a892ee;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-date {
+    background-color: #da9e4f;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-stock button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+
+.new-stock button:hover,
+.new-stock button:active {
+    background-color: #510674;
+    border-color: #510674;
+}
+
+.new-stock button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.new-stock button.alternative:hover,
+.new-stock button.alternative:active {
+    background-color: #ddb3f8;
+}
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+/* .newStock {
+    text-align: center;
+    margin: 5px;
+    width: 500px;
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: black; 
+     color: white; 
+    width: 830px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    margin: 0px;
+}
+
+.newStock input {
+    padding: 12px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+button {
+    padding: 12px;
+    font-size: auto;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+}
+
+button:hover {
+    background-color: blueviolet;
+} */
